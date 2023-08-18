@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.container .content{
+    width: 350px;
+    height: 350px;
+    background-color: violet;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 10px 16px;
+
+
+}
+
+button {
+    align-items: center;
+    background-color: rgb(241, 30, 206);
+    width: 80px;
+    height: 30px;
+
+}
